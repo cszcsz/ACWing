@@ -7,7 +7,7 @@ package Leetcode.week1;
  * @content: https://leetcode-cn.com/problems/zigzag-conversion/ 中等
  */
 
-public class Leetcode6_Z字形变换 {
+public class P6_Z字形变换 {
     public String convert(String s, int n) {
         if(n == 1) return s;
         String res = "";

@@ -6,7 +6,7 @@ package Leetcode.week2;
  * @project: Leetcode.week2.Leetcode14
  * @content: https://leetcode-cn.com/problems/longest-common-prefix/ 简单
  */
-public class Leetcode14_最长公共前缀 {
+public class P14_最长公共前缀 {
 
     public String longestCommonPrefix(String[] strs) {
         String res = "";
